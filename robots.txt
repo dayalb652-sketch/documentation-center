@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayalb652-sketch.github.io/documentation-center/sitemap.xml
